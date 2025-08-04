@@ -4,11 +4,11 @@ A full-stack MERN application that provides a simple and clean interface for org
 
 ## 🚀 Live Demo
 
-This project is deployed on Vercel. You can view the live application here:
+
 
 **[https://your-project-name.vercel.app](https://your-project-name.vercel.app)**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://landing-page-intern.vercel.app/)
+[LIVE](https://landing-page-intern.vercel.app/)
 
 ![Application Screenshot](https://placehold.co/800x450/6366f1/ffffff?text=Application+Preview)
 
