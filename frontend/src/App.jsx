@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = 'https://landing-page-intern.onrender.com';
+const API_URL = 'https://landing-page-intern.onrender.com/api';
 
 // --- Main App Component ---
 const App = () => {
