@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = 'https://basti-foundation-api.onrender.com/api';
+const API_URL = 'https://landing-page-intern.onrender.com';
 
 // --- Main App Component ---
 const App = () => {
