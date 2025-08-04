@@ -8,7 +8,7 @@ This project is deployed on Vercel. You can view the live application here:
 
 **[https://your-project-name.vercel.app](https://your-project-name.vercel.app)**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo-name)
+[![Deploy with Vercel](https://vercel.com/button)](https://landing-page-intern.vercel.app/)
 
 ![Application Screenshot](https://placehold.co/800x450/6366f1/ffffff?text=Application+Preview)
 
