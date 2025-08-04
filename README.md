@@ -6,7 +6,7 @@ A full-stack MERN application that provides a simple and clean interface for org
 
 [LIVE](https://landing-page-intern.vercel.app/)
 
-![Application Screenshot](<img width="1901" height="972" alt="Screenshot 2025-08-05 022223" src="https://github.com/user-attachments/assets/7681abbd-4df8-4e3d-bd63-0917e30dc871" />)
+<img width="1901" height="972" alt="Screenshot 2025-08-05 022223" src="https://github.com/user-attachments/assets/7681abbd-4df8-4e3d-bd63-0917e30dc871" />
 
 
 ## ✨ Features
