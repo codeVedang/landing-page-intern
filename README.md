@@ -4,10 +4,6 @@ A full-stack MERN application that provides a simple and clean interface for org
 
 ## 🚀 Live Demo
 
-
-
-**[https://your-project-name.vercel.app](https://your-project-name.vercel.app)**
-
 [LIVE](https://landing-page-intern.vercel.app/)
 
 ![Application Screenshot](https://placehold.co/800x450/6366f1/ffffff?text=Application+Preview)
